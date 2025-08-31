@@ -1,5 +1,5 @@
 # 💫 About Me:
-Discord bot
+
 
 
 ## 🌐 Socials:
